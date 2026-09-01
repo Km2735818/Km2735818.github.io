@@ -1,3 +1,13 @@
+<style>
+  body {
+    background-color: #FFB6D9;
+    color: #333;
+  }
+  a {
+    color: #D946A6;
+  }
+</style>
+
 # About Me
 Hello! I am [Km].
 Write a short paragraph about your interests, skills, or goals.
